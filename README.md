@@ -34,6 +34,8 @@ The Attendance Management System is a web application that allows users to manag
 2. Open your web browser and visit: `http://localhost:3000`
 3. Use the application to add and view attendance records.
 
+---
+
 
 
 
