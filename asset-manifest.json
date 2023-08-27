@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kalvium-Assignment/static/css/main.3bd61a0b.css",
+    "main.js": "/Kalvium-Assignment/static/js/main.f8593cdd.js",
+    "static/js/787.3d4e0f4f.chunk.js": "/Kalvium-Assignment/static/js/787.3d4e0f4f.chunk.js",
+    "index.html": "/Kalvium-Assignment/index.html",
+    "main.3bd61a0b.css.map": "/Kalvium-Assignment/static/css/main.3bd61a0b.css.map",
+    "main.f8593cdd.js.map": "/Kalvium-Assignment/static/js/main.f8593cdd.js.map",
+    "787.3d4e0f4f.chunk.js.map": "/Kalvium-Assignment/static/js/787.3d4e0f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd61a0b.css",
+    "static/js/main.f8593cdd.js"
+  ]
+}
