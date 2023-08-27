@@ -1,9 +1,13 @@
 # ATTENDANCE MANAGEMENT SYSTEM 
 A web application for managing attendance records of students.
 
-**Live Preview:**
+**Live Preview:https://deeparsh7.github.io/Kalvium-Assignment/**
 
-![image](https://github.com/deeparsh7/Kalvium-Assignment/assets/121679549/99690cbb-9de1-43df-9dd8-2f3ad3bcf21a)
+![image](https://github.com/deeparsh7/Kalvium-Assignment/assets/121679549/1210c94e-7363-4008-8d37-fbb7024e90ea)
+
+
+
+
 
 ## About
 
