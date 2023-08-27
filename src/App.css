@@ -81,7 +81,7 @@ width: 150%;
 .attendance-table th,
 .attendance-table td {
   padding: 10px; 
-  border: 1px solid #0a0a0a;
+  border: 2px solid #0a0a0a;
 }
 
 .attendance-table th {
