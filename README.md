@@ -28,7 +28,7 @@ The Attendance Management System is a web application that allows users to manag
 
 ## Usage
 
-1. Run the application: `npm run start start`
+1. Run the application: `npm run start`
 2. Open your web browser and visit: `http://localhost:3000`
 3. Use the application to add and view attendance records.
 
