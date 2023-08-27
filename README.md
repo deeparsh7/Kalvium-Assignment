@@ -20,7 +20,17 @@ The Attendance Management System is a web application that allows users to manag
 - CSS3
 - JavaScript (React)
 
+## Getting Started
 
+1. Clone the repository: `git clone https://github.com/your-username/attendance-management-system.git`
+2. Navigate to the project directory: `cd attendance-management-system`
+3. Install dependencies: `npm install`
+
+## Usage
+
+1. Run the application: `npm start`
+2. Open your web browser and visit: `http://localhost:3000`
+3. Use the application to add and view attendance records.
 
 
 
