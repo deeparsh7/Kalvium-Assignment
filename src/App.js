@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
-
+<div>
+  ATTENDANCE FORM 
+</div>
 // Attendance Form Component
 // AttendanceForm Component
 const AttendanceForm = ({ onAdd }) => {
@@ -77,6 +79,7 @@ function App() {
 
   return (
     <div className="App">
+ <h1 className="heading">Attendance Management System</h1>       
     <div className="app-container">
       <div className="form-container">
         <AttendanceForm onAdd={addData} />

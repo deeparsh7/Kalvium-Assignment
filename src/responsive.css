@@ -1,0 +1,55 @@
+/* responsive.css */
+
+/* Tablets (1024px to 1366px) */
+@media (min-width: 1024px) and (max-width: 1366px) {
+    .app-container {
+      padding: 30px; /* Adjust padding for tablets */
+    }
+    
+    .form-container {
+      width: 60%; /* Adjust width for tablets */
+      margin-top: 60px; /* Adjust margin for tablets */
+    }
+    
+    .form-input {
+      width: 100%; /* Full width for tablets */
+      margin-bottom: 20px; /* Adjust margin for tablets */
+    }
+    
+    .table-container {
+      width: 60%; /* Adjust width for tablets */
+      margin-top: 80px; /* Adjust margin for tablets */
+    }
+    
+  }
+  /* responsive.css */
+
+/* Devices below 1030px x 799px */
+/* responsive.css */
+
+/* Screens below 1030px width and 799px height */
+@media (max-width: 1030px) and (max-height: 799px) {
+    .app-container {
+      display: flex;
+      flex-direction: column; /* Change to column layout */
+      align-items: center; /* Center content horizontally */
+      justify-content: center; /* Center content vertically */
+      background-image: url(https://cdn.pixabay.com/photo/2016/11/29/01/54/wood-1866667_1280.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 100vh;
+    }
+    
+    .form-container,
+    .table-container {
+      width: 90%; /* Adjust width for smaller screens */
+      margin-top: 20px; /* Adjust margin for smaller screens */
+    }
+    
+    .form-input {
+      width: 100%; /* Full width for smaller screens */
+      margin-bottom: 10px; /* Adjust margin for smaller screens */
+    }
+  }
+  
