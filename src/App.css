@@ -14,7 +14,7 @@
 /* Style for the whole form container */
 .form-container {
   height: 700px;
-  width: 50%; /* 40% of the view screen */
+  width: 50%; 
   background-color: rgba(red, green, blue, 0.5);
   padding: 20px;
   border-radius: 5px;
@@ -67,7 +67,7 @@ width: 150%;
 .table-container {
   margin-top: 120px;
   margin-right: 10px;
-  width: 35%;  /* Adjust the value as needed */
+  width: 35%;  
   font-size: large;
   padding: 75px;
   font-weight: bolder;
@@ -80,7 +80,7 @@ width: 150%;
 
 .attendance-table th,
 .attendance-table td {
-  padding: 10px; /* Adjust the value as needed */
+  padding: 10px; 
   border: 1px solid #0a0a0a;
 }
 

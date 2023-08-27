@@ -3,22 +3,21 @@ import './App.css';
 <div>
   ATTENDANCE FORM 
 </div>
-// Attendance Form Component
+
 // AttendanceForm Component
 const AttendanceForm = ({ onAdd }) => {
   const [name, setName] = useState('');
   const [regNo, setRegNo] = useState('');
   const [date, setDate] = useState('');
   const [subject, setSubject] = useState('');
-  const [status, setStatus] = useState('Present'); // Default status
+  const [status, setStatus] = useState('Present'); 
 
   const handleSubmit = () => {
-    onAdd({ name, regNo, date, subject, status }); // Include status in the data
-    setName('');
+    onAdd({ name, regNo, date, subject, status }); 
     setRegNo('');
     setDate('');
     setSubject('');
-    setStatus('Present'); // Reset status to default
+    setStatus('Present'); 
   };
 
   return (
