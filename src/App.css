@@ -13,13 +13,14 @@
 
 /* Style for the whole form container */
 .form-container {
+
   height: 700px;
   width: 50%; 
   background-color: rgba(red, green, blue, 0.5);
   padding: 20px;
   border-radius: 5px;
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
-  margin-top: 80px;
+  margin-top: 6vh;
   margin-left: 50px;
   /* opacity: 0.5; */
 }
@@ -65,7 +66,7 @@ width: 150%;
 }
 /* Style for the AttendanceTable container */
 .table-container {
-  margin-top: 120px;
+  margin-top: 6vh;
   margin-right: 10px;
   width: 35%;  
   font-size: large;
